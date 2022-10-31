@@ -6,5 +6,5 @@ TEAM MEMBERS:
  GUNASEKARAN M (Member 2)
  HIRUTHICK P (Member 3)
 
-**project guide**: Boopathi Raja G
+**TEAM MENTOR**: Boopathi Raja G
 
